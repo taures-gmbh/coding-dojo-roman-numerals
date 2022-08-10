@@ -1,4 +1,4 @@
-package src.main.java.org.example;
+package src.main.java.com.taures;
 
 public class Main {
 
